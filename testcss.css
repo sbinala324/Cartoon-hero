@@ -1,0 +1,17 @@
+body{
+background-color: bisque;
+}
+h1{
+    font-size: 30px;
+    color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: capitalize;
+}
+
+.upercase{
+    text-transform: uppercase;
+
+}
+span{
+color: aqua;
+}
