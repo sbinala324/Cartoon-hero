@@ -1,0 +1,78 @@
+body {
+margin: 0;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 17px;
+line-height: 27px;
+}
+
+header {
+background-color: #DA3F38;
+text-align: center;
+padding-top: 50px;
+padding-bottom: 50px;
+
+}
+
+h1,h2{
+    font-family: 'Luckiest Guy', cursive;
+
+}
+
+header img{
+border-radius: 300px;
+width: 500px;
+border-style: solid;
+border-color: #F77203;
+border-width: 20px;
+}
+header h1 {
+color: white;
+font-size: 70px;
+
+
+
+}
+
+main{
+max-width: 800px;
+margin: 0 auto;
+padding:  20px;
+}
+
+main img {
+max-width: 100%;
+}
+h2{
+font-size: 35px;
+color: #DA3F38;
+}
+a{
+color:#DA3F38 ;
+}
+a:hover{
+color: white;
+background-color: #483a94;
+}
+footer{
+    background-color: #DA3F38;
+    text-align: center;
+}
+footer p{
+padding: 50px;
+margin: 0;
+}
+
+footer a {
+color: white;
+
+
+}
+footer a:hover {
+    opacity: 0.5;
+    background-color: transparent;
+}
+p.caption{
+color: #999999;
+font-style: italic;
+margin-top: 0;
+}
